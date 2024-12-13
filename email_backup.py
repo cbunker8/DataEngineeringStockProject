@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 # Email configuration
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
-sender_email = "testchris796@gmail.com"
-app_password = "kojdghudlpvzxopl"
-recipient_email = "testchris796@gmail.com"
+sender_email = ""
+app_password = ""
+recipient_email = ""
 
 subject = "Test Email"
 body = "This is a test email sent using Python smtplib."
