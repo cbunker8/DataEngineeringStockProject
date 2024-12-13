@@ -4,11 +4,11 @@ from email.mime.multipart import MIMEMultipart
 
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
-sender_email = "testchris796@gmail.com"
-app_password = "kojdghudlpvzxopl"
-recipient_email = "testchris796@gmail.com"
-e_log_path = "/home/ec2-user/DE/e.log"
-check_weekend_log_path = "/home/ec2-user/DE/check_weekend.log"
+sender_email = "testchris###.com"
+app_password = "######"
+recipient_email = "testchris####"
+e_log_path = ""
+check_weekend_log_path = ""
 
 try:
     with open(e_log_path, "r") as e_log_file:
