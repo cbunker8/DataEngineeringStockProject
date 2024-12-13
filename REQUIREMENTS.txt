@@ -1,0 +1,11 @@
+dotenv
+psycopg2
+psycopg2-binary
+python-dotenv
+numpy
+yfinance
+postgresql-client
+cron
+smtplib
+os
+github
